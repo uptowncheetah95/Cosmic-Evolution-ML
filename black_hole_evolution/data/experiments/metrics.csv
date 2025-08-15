@@ -1,0 +1,2 @@
+ts,cfg,train_loss,val_loss,rmse_phys,mae_phys
+2025-08-15_22-27-54,"{""model"": ""BlackHoleNet-v1"", ""lr"": 0.0001, ""batch_size"": 64, ""epochs"": 50, ""optimizer"": ""Adam"", ""loss_fn"": ""MSELoss""}",0.0123,0.0456,"{""bh_mass"": 0.1, ""bh_acc"": 0.2, ""stellar_mass"": 0.15}","{""bh_mass"": 0.05, ""bh_acc"": 0.1, ""stellar_mass"": 0.08}"
